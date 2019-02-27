@@ -1,0 +1,9 @@
+[
+{
+"exp_name":"test_med",
+"date":"2018-09-01",
+"amount":10,
+"exp_type":"Medical",
+"Mode":"Cash"
+}
+]
